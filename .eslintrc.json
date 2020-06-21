@@ -28,6 +28,7 @@
       }
     ],
     "no-useless-constructor": "off",
+    "no-plusplus": "off",
     "@typescript-eslint/interface-name-prefix": [
       "error",
       {
